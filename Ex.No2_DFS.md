@@ -1,5 +1,6 @@
 # Ex.No: 2  Implementation of Depth First Search
 ### DATE:                                                                          
+### NAME: RIZWAN T
 ### REGISTER NUMBER : 212222040134
 ### AIM: 
 To write a python program to implement Depth first Search. 
